@@ -1,7 +1,7 @@
 non-atomic-declare-miner
 ========================
 
-PROM plugin to discover a declare model from non atomic event logs
+ProM plugin to discover a declare model from non atomic event logs
 
 More information on how to use Non Atomic Declarative Miner are in the Wiki!
 
